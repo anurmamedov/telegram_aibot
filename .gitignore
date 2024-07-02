@@ -1,0 +1,13 @@
+# Virtual environment
+my_env/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Environment variables file
+.env
+
+# Ignore any system files or temporary files
+.DS_Store
+Thumbs.db
