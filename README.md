@@ -25,6 +25,6 @@ This is a Telegram bot that integrates with OpenAI's GPT-3.5 API to generate tex
 
    ```sh
    git clone https://github.com/anurmamedov/telegram_bot.git
-
+-------------------------------------------------------------------------------------------
    ![image](https://github.com/user-attachments/assets/c6a66084-78a1-4724-b90c-181877022848)
 
